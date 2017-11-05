@@ -1,0 +1,6 @@
+version 1.0
+basic version of mjpeg server
+build: go to build dir and make
+exe: go to out dir and run mjpeg_server
+bug: using V4L2 video framework, framerate is extremely low
+
